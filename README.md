@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @justteshi
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning ReactJS
+- 👋 Hi, I’m Teodor Hristov /@justteshi
+- :computer: I’m interested in Full Stack Development
+- :green_book: I’m currently learning ReactJS and Symfony
 
 
 <!---
