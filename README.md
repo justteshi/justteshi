@@ -5,7 +5,6 @@
 </p>
 
 ---
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -30,3 +29,5 @@
 </td>
 </tr>
 </table>
+
+[![wakatime](https://wakatime.com/badge/user/227e14e5-6c96-40b8-b25a-ecae8e548156.svg)](https://wakatime.com/@227e14e5-6c96-40b8-b25a-ecae8e548156)
